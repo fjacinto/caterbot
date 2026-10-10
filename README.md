@@ -1,6 +1,6 @@
 # REAP Agentic Payments — Workspace + Katerbot
 
-Repositorio único con **dos experiencias** que comparten el mismo objetivo: demostrar pagos agénticos con aprobación humana, presupuesto y trazabilidad — sin conectar dinero real.
+Repositorio único que incluye la base de datos y que tiene como objetivo: demostrar pagos agénticos con aprobación humana, presupuesto y trazabilidad — sin conectar dinero real, como demostración.
 
 | App | Carpeta | Stack | Cómo se ejecuta |
 |---|---|---|---|
