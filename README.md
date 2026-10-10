@@ -1,4 +1,4 @@
-# Katerbot 🧺🤖
+# Caterbot 🧺🤖
 
 **Agentic Payments hackathon × Reap.** Katerbot es un agente que administra el inventario y el gasto diario de comida, detecta productos próximos a caducar o agotarse, propone una reposición dentro del presupuesto y — con la aprobación del usuario — compra mediante la **API de Reap Agentic Payments**.
 
